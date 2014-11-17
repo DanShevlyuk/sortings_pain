@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+*~.nib
+sortings_pain.xcodeproj/project.xcworkspace/xcuserdata/*
+sortings_pain/output_proekt* 
